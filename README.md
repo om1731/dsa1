@@ -57,4 +57,12 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/om1731/dsa1/tree/master/0085-maximal-rectangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/om1731/dsa1/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/om1731/dsa1/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
