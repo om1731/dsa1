@@ -36,6 +36,7 @@
 | [0085-maximal-rectangle](https://github.com/om1731/dsa1/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/om1731/dsa1/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/om1731/dsa1/tree/master/0503-next-greater-element-ii) |
+| [0905-sort-array-by-parity](https://github.com/om1731/dsa1/tree/master/0905-sort-array-by-parity) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/om1731/dsa1/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Hash Table
 |  |
@@ -61,8 +62,13 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/om1731/dsa1/tree/master/0125-valid-palindrome) |
+| [0905-sort-array-by-parity](https://github.com/om1731/dsa1/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/om1731/dsa1/tree/master/0125-valid-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/om1731/dsa1/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
